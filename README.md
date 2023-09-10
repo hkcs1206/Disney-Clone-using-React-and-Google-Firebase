@@ -8,6 +8,7 @@ Frontpage:
 
 
 Desktop:(after login)
+
 ![image](https://github.com/hkcs1206/Disney-Clone-using-React-and-Google-Firebase/assets/96352622/fe4015da-d431-4fe5-a1c9-a649efefb78b)
 
 Mobile Phone:(after login)
